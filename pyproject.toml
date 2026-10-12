@@ -1,0 +1,12 @@
+[project]
+name = "travel-assistant-assignment"
+version = "0.1.0"
+description = "AI Travel Assistant Assignment"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "google-genai>=1.0.0",
+    "pydantic>=2.13.4",
+    "python-dotenv>=1.2.2",
+    "streamlit>=1.61.1"
+]
